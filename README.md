@@ -1,7 +1,7 @@
 <p align="center">
   <img src="img/menu.png">
 </p>
-<h3 align="center">BINOMIAL</h3>
+<h3 align="center">Loi Binomiale</h3>
 
 
 
